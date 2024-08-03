@@ -53,4 +53,4 @@ Visualize the distribution of the number of ratings and average ratings.
 
 2. Top 4 movie recommendations:
 
-![demo_image](demo_image_1.png)
+![demo_image](demo_image_2.png)
