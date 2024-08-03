@@ -13,4 +13,4 @@ The data set used is **MovieLens Dataset**
 ### Demo:
 
 ```
-![demo_image](/demo_image_1.png/)
+![demo_image](demo_image_1.png)
