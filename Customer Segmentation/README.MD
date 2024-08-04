@@ -56,3 +56,8 @@ Customer information
 ### 2.2.1 Type of ML Problem
 It is an unsupervised learning task, where given the features about each transaction, we need to segment the customers based on their buying patterns.
 * It is importnat to note that the given data is transaction-level while the clusters (or segmenst) we need to create are customer-level.
+
+> Important libraries:
+
+```
+!pip install numpy pandas matplotlib seaborn sklearn xgboost
