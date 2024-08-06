@@ -27,7 +27,9 @@ To address these issues, the retailer has enlisted our help to create customer c
 
 
 
+Dataset used fot this project is the ***Online Retail Data-Set***
 
+https://www.kaggle.com/datasets/tunguz/online-retail
 
 # 2. Machine Learning Problem
 ## 2.1 Data Overview
